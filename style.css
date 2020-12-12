@@ -1,0 +1,11 @@
+body{font-size:130%;font-family:"monospace";background-color:lightblue;}
+.half-width{
+    width:30%;
+    float:left;}
+.half-dist{width:70%;padding-left:30%;padding-top:2%}
+.half-display{width:70%; float:left}
+.container{display:inline-block;}
+.designform{font-size:1.2em;padding: 100px;}
+input{font-size:130%;margin-bottom:70px}
+label{margin:top:25px;margin-bottom:25px}
+.buttonclass{border:solid purple; border-radius:50px;background-color: purple;color:white}
