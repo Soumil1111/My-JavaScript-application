@@ -6,6 +6,6 @@ body{font-size:130%;font-family:"monospace";background-color:lightblue;}
 .half-display{width:70%; float:left}
 .container{display:inline-block;}
 .designform{font-size:1.2em;padding: 100px;}
-input{font-size:130%;margin-bottom:70px}
+input{font-size:130%;margin-bottom:70px;border-radius:4%}
 label{margin:top:25px;margin-bottom:25px}
 .buttonclass{border:solid purple; border-radius:50px;background-color: purple;color:white}
